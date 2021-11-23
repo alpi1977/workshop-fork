@@ -1,3 +1,6 @@
+"Merhaba arkadaşlar.."
+"Arkadaşlar"
+=======
 merhaba yeni dünya
 =======
 year = int(input("Bir yıl giriniz: "))
